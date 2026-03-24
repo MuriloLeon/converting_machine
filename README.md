@@ -1,4 +1,4 @@
-# converting_machine
+# Converting Machine
 
 Modificações feitas:
 - Criação do css para estilizar a página;
